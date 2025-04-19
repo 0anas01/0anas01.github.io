@@ -1,25 +1,28 @@
 +++
-title = 'Content Marketing in a Capitalist World'
+title = 'Should AI Write your Content?'
 date = 2025-04-19T04:39:37Z
 draft = false
 +++
-The other day, I stumbled on a GPT prompt so meticulously crafted it almost felt like software. It had neatly labeled sections, clear instructions, and no trace of the usual AI slop that begins with “In the dynamic world of…” You drop it into ChatGPT or Claude or whatever else you like, and it asks for a topic. Feed it something — say, “B2B SaaS onboarding” — and within minutes, it spits out a 1000-word blog that actually reads like someone gave a damn.
+The other day, I stumbled on a GPT prompt so meticulously crafted it almost felt like software. It had neatly labeled sections and clear instructions. You drop it into ChatGPT or Claude or whatever else you like, and it asks for a topic. Feed it something — say, “B2B SaaS onboarding” — and within minutes, it spits out a 1000-word blog that actually reads like someone gave a damn.
 
-![Snippet from ChatGPT](./images/Snippet%20from%20ChatGPT.png)
+<figure>
+  <img src="/images/Snippet-from-ChatGPT.png" alt="Snippet from ChatGPT">
+  <figcaption>A screenshot from ChatGPT response</figcaption>
+</figure>
 
 Trim a few lines, tighten the flow, and you’ve got something publishable in half an hour. Which made me wonder: *should this be the way?*
 
-You might argue, “But it doesn’t sound like me.” Fair. But it’s also easy to reverse-engineer your style into a reusable prompt. Give it a sample of your writing, and it’ll mirror it — tone, rhythm, quirks and all. You could feed in the raw blog and get it back sounding like something you’d write on a good day.
+You might argue, “But it doesn’t sound like me.” Fair. But it’s also easy to reverse-engineer your style into a reusable prompt. Give AI some samples of your writing, and it’ll mirror it — tone, rhythm, quirks and all. You could feed in the raw blog and get it back sounding like something you’d write on a good day.
 
 Now you have content that reads like you. And if you’re a subject matter expert, you can churn out two decent blogs in an afternoon.
 
-Compare that to traditional content workflows. I’ve worked with writers who spend two or three days on a single post. And even then, you still have to go in and tune it before it’s ready. With a tool like this, you’ve reduced a multi-day effort to an hour. If you’re in marketing, where output is measured — that’s not just helpful, it’s gold. You hit your targets faster. Which is all anyone really wants.
+Compare that to traditional content workflows. I’ve worked with writers who spend days on a single post. And even then, you still have to go in and tune it before it’s ready. With a tool like this, you’ve reduced a multi-day effort to an hour. If you’re in marketing, where output is measured — that’s not just helpful, it’s gold. You hit your targets faster. Which is all anyone really wants.
 
 But here’s the catch. What if there *were* no targets? No KPIs breathing down your neck. Just a vague directive to “make something great.” Would you still use the prompt? Or would you sit there, chasing the kind of writing people want to reread? The kind they send to friends with a “This is so true”?
 
 That’s the real tension. Because what these tools offer is efficiency. But what we claim to value is craft.
 
-The funny thing is, you can actually have both. You can give GPT a piece of writing you love — yours or someone else’s — and ask it to build a prompt in that style. So instead of spinning fluff, it’s generating essays that feel like yours. And they’re good. Sometimes, great.
+The funny thing is, you can actually have both. You can give GPT a piece of writing you love — yours or someone else’s — and ask it to build a prompt in that style. So instead of spinning fluff, it’s generating content that feel like yours. And they’re good. Sometimes, great.
 
 But how do we know? That’s the hard part. Maybe you could write something better. Maybe not. But the point is, you *couldn’t* do it in an hour. And if the version you got from the machine drives traffic, conversions, or compliments, what then? Hasn’t it done its job?
 

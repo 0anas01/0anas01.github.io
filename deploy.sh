@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Build the Hugo site
-hugo server -D
-
 # Add changes to git
 git add .
 
@@ -12,6 +9,3 @@ git commit -m "$msg"
 
 # Push to GitHub
 git push origin main
-
-# Return to root directory
-cd ..
