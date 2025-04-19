@@ -1,7 +1,7 @@
 +++
 title = 'Content Marketing in a Capitalist World'
 date = 2025-04-19T04:39:37Z
-draft = true
+draft = false
 +++
 The other day, I stumbled on a GPT prompt so meticulously crafted it almost felt like software. It had neatly labeled sections, clear instructions, and no trace of the usual AI slop that begins with “In the dynamic world of…” You drop it into ChatGPT or Claude or whatever else you like, and it asks for a topic. Feed it something — say, “B2B SaaS onboarding” — and within minutes, it spits out a 1000-word blog that actually reads like someone gave a damn.
 
