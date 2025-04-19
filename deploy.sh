@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Build the Hugo site
-hugo
+hugo server -D
 
 # Add changes to git
 git add .
