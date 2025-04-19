@@ -5,6 +5,8 @@ draft = false
 +++
 The other day, I stumbled on a GPT prompt so meticulously crafted it almost felt like software. It had neatly labeled sections, clear instructions, and no trace of the usual AI slop that begins with “In the dynamic world of…” You drop it into ChatGPT or Claude or whatever else you like, and it asks for a topic. Feed it something — say, “B2B SaaS onboarding” — and within minutes, it spits out a 1000-word blog that actually reads like someone gave a damn.
 
+![Snippet from ChatGPT](./images/Snippet%20from%20ChatGPT.png)
+
 Trim a few lines, tighten the flow, and you’ve got something publishable in half an hour. Which made me wonder: *should this be the way?*
 
 You might argue, “But it doesn’t sound like me.” Fair. But it’s also easy to reverse-engineer your style into a reusable prompt. Give it a sample of your writing, and it’ll mirror it — tone, rhythm, quirks and all. You could feed in the raw blog and get it back sounding like something you’d write on a good day.

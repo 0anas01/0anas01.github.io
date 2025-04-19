@@ -3,9 +3,6 @@
 # Build the Hugo site
 hugo
 
-# Navigate to the public directory
-cd public
-
 # Add changes to git
 git add .
 
