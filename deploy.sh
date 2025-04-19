@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Build the Hugo site
+hugo
+
+# Navigate to the public directory
+cd public
+
+# Add changes to git
+git add .
+
+# Commit changes
+msg="Rebuilding site $(date)"
+git commit -m "$msg"
+
+# Push to GitHub
+git push origin main
+
+# Return to root directory
+cd ..
