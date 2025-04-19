@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on thoughts</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Apr 2025 04:39:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 04:39:37 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Marketing in a Capitalist World</title>
-      <link>http://localhost:1313/posts/content-marketing-capitalist-world/</link>
+      <link>https://example.org/posts/content-marketing-capitalist-world/</link>
       <pubDate>Sat, 19 Apr 2025 04:39:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/content-marketing-capitalist-world/</guid>
+      <guid>https://example.org/posts/content-marketing-capitalist-world/</guid>
       
       <description>The other day, I stumbled on a GPT prompt so meticulously crafted it almost felt like software. It had neatly labeled sections, clear instructions, and no trace of the usual AI slop that begins with “In the dynamic world of…” You drop it into ChatGPT or Claude or whatever else you like, and it asks for a topic. Feed it something — say, “B2B SaaS onboarding” — and within minutes, it spits out a 1000-word blog that actually reads like someone gave a damn.</description>
       
