@@ -1,7 +1,7 @@
 {
     "name": "thoughts",
     "short_name": "thoughts",
-    "start_url": "http://localhost:1313/",
+    "start_url": "https://example.org/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
