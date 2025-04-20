@@ -6,3 +6,9 @@ theme = "hugo-blog-awesome"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[menu]
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 1

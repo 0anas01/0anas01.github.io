@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thoughts</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on thoughts</description>
+    <title>Blog on thoughts</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blog on thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Apr 2025 04:39:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 04:39:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Should AI Write your Content?</title>
       <link>http://localhost:1313/blogs/should-ai-write-content/</link>
