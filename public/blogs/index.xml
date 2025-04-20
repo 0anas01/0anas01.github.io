@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on thoughts</title>
-    <link>https://example.org/blogs/</link>
+    <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Blog on thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Apr 2025 04:39:37 +0000</lastBuildDate><atom:link href="https://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 04:39:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Should AI Write your Content?</title>
-      <link>https://example.org/blogs/should-ai-write-content/</link>
+      <link>http://localhost:1313/blogs/should-ai-write-content/</link>
       <pubDate>Sat, 19 Apr 2025 04:39:37 +0000</pubDate>
       
-      <guid>https://example.org/blogs/should-ai-write-content/</guid>
+      <guid>http://localhost:1313/blogs/should-ai-write-content/</guid>
       
       <description>The other day, I stumbled on a GPT prompt so meticulously crafted it almost felt like software. It had neatly labeled sections and clear instructions. You drop it into ChatGPT or Claude or whatever else you like, and it asks for a topic. Feed it something — say, “B2B SaaS onboarding” — and within minutes, it spits out a 1000-word blog that actually reads like someone gave a damn.
 A screenshot from ChatGPT response Trim a few lines, tighten the flow, and you’ve got something publishable in half an hour.</description>
